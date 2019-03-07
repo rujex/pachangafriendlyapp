@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      "cordova-instagram-plugin",
+      "/home/ruben/Documentos/ionic/PachangaFriendly"
+    ]
+  ],
+  "_from": "cordova-instagram-plugin@latest",
+  "_id": "cordova-instagram-plugin@0.5.7",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-instagram-plugin",
+  "_nodeVersion": "9.9.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-instagram-plugin_0.5.7_1527618463865_0.46135003182562717"
+  },
+  "_npmUser": {
+    "email": "vstirbu@gmail.com",
+    "name": "vstirbu"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-instagram-plugin",
+    "raw": "cordova-instagram-plugin",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-instagram-plugin/-/cordova-instagram-plugin-0.5.7.tgz",
+  "_shasum": "8584c6b02e235fd4d9bc26dbd9d5057127bbb9fa",
+  "_shrinkwrap": null,
+  "_spec": "cordova-instagram-plugin",
+  "_where": "/home/ruben/Documentos/ionic/PachangaFriendly",
+  "author": {
+    "name": "Vlad Stirbu"
+  },
+  "bugs": {
+    "url": "https://github.com/vstirbu/InstagramPlugin/issues"
+  },
+  "cordova": {
+    "id": "cordova-instagram-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Share the content of a canvas element or a dataUrl encoded image using the Instagram application for iOS and Android.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 11,
+    "integrity": "sha512-PTHA56TF30AdrwWaQuSsvwyusEAbhDNB0wRUGd4ZBzicTB7PsakIK5xeMe9yCoWMHTb+sDKLTS8H+XpsqZX66g==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbDZuhCRA9TVsSAnZWagAA3eoQAIrdMBcOwk5kF1lUjErh\nglP/XWf4wdhoi2N+kWm+H0drn/EzX7iK56vSBcG27RN9L6lJfirKxEc7wI8t\nA5d27KACbH9KebhepfVN2fVRUlrNCaXgXz+L3kyt7lUAUAJ+T/2efkTXAij1\no2WVTcdZ3ENHFE/D4GpBIprUpUnJ5Xf8YapR5vbB0s4VL3Qt6Ej5/EnINF0v\niPZgJ3vl3zod+SDEzmThnefjE5hwJXTWTMqb4wyegXKQHbr7iz0+uE49Ugs+\nTkE6JcArJr2hanUSMSenVZ37n6Ryu2SLHMWPz4IifQZWpMTfb7ZTGSB/zs6u\nXpHFg5HpyEl0DgElOZNQNlQB2cfWUQbZgcXMB6vgeazBgDUQbtVa+IHU6AFV\nP/WlbMvvCEI2omFPP30KDDE+WQH41YkDQiom4qnl6iesKR+PvSKsuwgkmcb8\nVBl3Q57b1SIGyxSvx63+jJl1qHnp4g4w+mPsIfSczS7a4/IPG32oUvS6iKCR\nBy6ztx/L5LveRyVodc0R75lVl9A2KZMjaqb/jWfV49z/c9fnLk5Z09h2DQQH\nkzDKjMrpmTcO9kiD5jtQ7AytGqUHFGB+vS7DSxLMB11kIKivHB1CeLujRztL\nvdHZ61/5pjk/nlsMlP7tdhXK1sllvK1NqjAuC3Gvi5oJT63KcSgWbRc4RuZP\n4+14\r\n=7AAh\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "8584c6b02e235fd4d9bc26dbd9d5057127bbb9fa",
+    "tarball": "https://registry.npmjs.org/cordova-instagram-plugin/-/cordova-instagram-plugin-0.5.7.tgz",
+    "unpackedSize": 28674
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "gitHead": "50e78eb4768ee605af71f27a268803ab516fc183",
+  "homepage": "https://github.com/vstirbu/InstagramPlugin#readme",
+  "keywords": [
+    "cordova-android",
+    "cordova-ios",
+    "ecosystem:cordova"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "vstirbu",
+      "email": "vlad.stirbu@ieee.org"
+    }
+  ],
+  "name": "cordova-instagram-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vstirbu/InstagramPlugin.git"
+  },
+  "version": "0.5.7"
+}

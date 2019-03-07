@@ -1,0 +1,7 @@
+{
+  "name": "PachangaFriendly",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
